@@ -3,7 +3,7 @@
 
 <h1 align="left">BIO</h1>
 
-CEO & CTO in [FunnyLearn](https://www.instagram.com/bryan_herrera_7w7/) 
+CEO & Founder in [FunnyLearn](https://www.instagram.com/bryan_herrera_7w7/) 
 \
 ![](https://komarev.com/ghpvc/?username=Bryan-Herrera-DEV&color=blue)
 <p>I am a simple human more passionate about programming 👨🏻‍💻</p>
