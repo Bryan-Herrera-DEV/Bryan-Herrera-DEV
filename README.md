@@ -1,16 +1,18 @@
-<img align='left' src='https://github.com/bryanlolry/bryanlolry/blob/master/gifs/giffOne.gif' width='20%'> 
-<img align='right' src='https://github.com/bryanlolry/bryanlolry/blob/master/gifs/giffTwo.gif' width='20%'> 
 
-# BIO
+<img align='left' src='https://github.com/bryanlolry/bryanlolry/blob/master/gifs/tech.gif' width='20%'> 
 
-Ni que decir, un simple desarrollador mas.
+<h1 align="left">BIO</h1>
 
+
+
+CEO & CTO in [FunnyLearn](https://www.instagram.com/bryan_herrera_7w7/) 
 ![](https://komarev.com/ghpvc/?username=bryanlolry&color=blue)
 
-<h2 align="center">Skills</h2>
-<p align="center">A summary of my programming skills.</p>
+<a></a>
+<h2 align="left">Skills</h2>
+<p align="left">A summary of my programming skills.</p>
 
-<p align="center">
+<p align="left">
   <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/apache.png' height='42px'/>
   <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/css.png' height='42px'/>
   <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/debian.webp' height='42px'/>
@@ -23,6 +25,7 @@ Ni que decir, un simple desarrollador mas.
   <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/sass.png' height='42px'>
   <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/sql.png' height='42px'>
 </p>
-			
+<h2 align="left">I love</h2>
+![](https://img.shields.io/badge/WebDevelopment-❤-purple)		
 	
 
