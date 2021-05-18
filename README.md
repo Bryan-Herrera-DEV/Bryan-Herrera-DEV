@@ -35,5 +35,9 @@ Instagram [BryanHerrera](https://www.instagram.com/bryan_herrera_7w7)
 Twitter [BryanHerrera](https://www.instagram.com/bryan_herrera_7w7) 
 
 	
-
-![](https://activity-graph.herokuapp.com/graph?Bryan-Herrera-DEV=ashutosh00710&bg_color=370034&color=708090&line=4F5E01&point=7B9200&area=true&hide_border=true)
+<h2 align='left'><i>Activity Graph 📈</i></h2>
+<p align="center">
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+ <img src="https://activity-graph.herokuapp.com/graph?username=Bryan-Herrera-DEV&line=00d13b&theme=react-dark&area=true&hide_border=true" width="100%">
+</a>
+</p>
