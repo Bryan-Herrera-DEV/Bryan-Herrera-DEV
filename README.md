@@ -6,7 +6,7 @@
 CEO & Founder in [FunnyLearn](https://www.instagram.com/bryan_herrera_7w7/) 
 \
 ![](https://komarev.com/ghpvc/?username=Bryan-Herrera-DEV&color=blue)
-<p>I am a simple human more passionate about programming 👨🏻‍💻</p>
+<p>I'm a simple human more passionate about programming 👨🏻‍💻</p>
 
 <br>
 <br>
