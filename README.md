@@ -36,3 +36,4 @@ Twitter [BryanHerrera](https://www.instagram.com/bryan_herrera_7w7)
 
 	
 
+![](https://activity-graph.herokuapp.com/graph?Bryan-Herrera-DEV=ashutosh00710&bg_color=370034&color=708090&line=4F5E01&point=7B9200&area=true&hide_border=true)
