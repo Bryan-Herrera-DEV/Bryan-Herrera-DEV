@@ -3,28 +3,61 @@
 
 <h1 align="left">BIO</h1>
 
-CEO & Founder in [FunnyLearn](https://www.instagram.com/bryan_herrera_7w7/) 
-\
+<h3 align="left">
+  Welcome to ርᚱ1ናተᛰ ᚻህᚥተპᚱ's profile!
+</h3>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00D13B&width=650&lines=I'm+a+simple+human+more+passionate+about+programming+💻)](https://git.io/typing-svg)
 ![](https://komarev.com/ghpvc/?username=Bryan-Herrera-DEV&color=blue)
-<p>I'm a simple human more passionate about programming 👨🏻‍💻</p>
 
 <br>
 <br>
 <h2 align="left">Skills</h2>
-<p align="left">A summary of my programming skills.</p>
-<p align="left">
-  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/apache.png' height='42px'/>
-  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/css.png' height='42px'/>
-  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/debian.webp' height='42px'/>
-  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/html.png' height='42px'>
-  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/java.png' height='42px'>
-  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/javascript.jpg' height='42px'>
-  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/mysql.png' height='42px'>
-  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/nodejs.png' height='42px'>
-  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/php.png' height='42px'>
-  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/sass.png' height='42px'>
-  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/sql.png' height='42px'>
-</p>
+<table width="100">
+<tr>
+    <td align='center' width="190">
+        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="60">
+    </td>
+   <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg">
+    </td>
+    <td align='center'>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="60">
+    </td>
+     <td align='center' width="190">
+        <img src="https://github.com/detain/svg-logos/blob/master/svg/git.svg" width="60">
+    </td>
+    <td align='center' width="190">
+        <img src="https://github.com/prplx/svg-logos/blob/master/svg/angular.svg" width="60">
+    </td>
+</tr>
+<tr>
+    <td align='center'>
+        <img src="https://github.com/prplx/svg-logos/blob/master/svg/sass.svg" width="60">
+    </td>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
+    </td>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg">
+    </td>
+    <td align='center'>
+        <img src="https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/mysql.png" height="60"wifth="60">
+    </td>
+</tr>
+<tr>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg">
+    </td>
+    <td align='center'>
+        <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="60">
+    </td>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
+    </td>
+</tr>
+</table>
+
 <h2 align="left">Follow me on</h2>
 <img align="left" src="https://github.com/Bryan-Herrera-DEV/Bryan-Herrera-DEV/blob/0481bf405d1c643fcbd16b4ea233f4748842a515/img/instagram.png" height= 20px>
 
@@ -41,3 +74,6 @@ Twitter [BryanHerrera](https://www.instagram.com/bryan_herrera_7w7)
  <img src="https://activity-graph.herokuapp.com/graph?username=Bryan-Herrera-DEV&line=00d13b&theme=react-dark&area=true&hide_border=true" width="100%">
 </a>
 </p>
+<h3 align="center">
+	<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Bryan-Herrera-DEV&theme=blue-green&hide_border=true&background=DD272700&currStreakNum=00DD24">
+</h3>
