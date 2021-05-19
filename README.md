@@ -52,9 +52,9 @@
 
 <h2 align='left'><i>Follow me on</i></h2>
 <h3 align='center'>
-	<img align='left' src="https://github.com/Bryan-Herrera-DEV/Bryan-Herrera-DEV/blob/71ef8a1b181b4ae103025a087bfd69ea4eeed00b/img/instagram.png" wifth="10" height="110">
-	<img align='center' src="https://github.com/Bryan-Herrera-DEV/Bryan-Herrera-DEV/blob/71ef8a1b181b4ae103025a087bfd69ea4eeed00b/img/twitter.png" wifth="10" height="110">
-	<img align='right' src="https://github.com/Bryan-Herrera-DEV/Bryan-Herrera-DEV/blob/71ef8a1b181b4ae103025a087bfd69ea4eeed00b/img/linkedin.png" wifth="10" height="110">
+	<img align='left' src="https://github.com/Bryan-Herrera-DEV/Bryan-Herrera-DEV/blob/71ef8a1b181b4ae103025a087bfd69ea4eeed00b/img/instagram.png" wifth="10" height="95">
+	<img align='center' src="https://github.com/Bryan-Herrera-DEV/Bryan-Herrera-DEV/blob/71ef8a1b181b4ae103025a087bfd69ea4eeed00b/img/twitter.png" wifth="10" height="95">
+	<img align='right' src="https://github.com/Bryan-Herrera-DEV/Bryan-Herrera-DEV/blob/71ef8a1b181b4ae103025a087bfd69ea4eeed00b/img/linkedin.png" wifth="10" height="95">
 </h3>
 
 	
