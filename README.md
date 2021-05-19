@@ -71,5 +71,5 @@
 </a>
 </p>
 <h3 align="center">
-	<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Bryan-Herrera-DEV&theme=blue-green&hide_border=true&background=DD272700&currStreakNum=00DD24">
+	<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Bryan-Herrera-DEV&theme=blue-green&hide_border=true&background=#0d1117&currStreakNum=00DD24">
 </h3>
