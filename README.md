@@ -12,7 +12,7 @@
 
 <br>
 <br>
-<h2 align="left">Skills</h2>
+<h2 align='left'><i>Skills</i></h2>
 <table width="100">
 <tr>
     <td align='center' width="190">
@@ -50,14 +50,12 @@
 </tr>
 </table>
 
-<h2 align="left">Follow me on</h2>
-<img align="left" src="https://github.com/Bryan-Herrera-DEV/Bryan-Herrera-DEV/blob/0481bf405d1c643fcbd16b4ea233f4748842a515/img/instagram.png" height= 20px>
-
-Instagram [BryanHerrera](https://www.instagram.com/bryan_herrera_7w7) 
-
-<img align="left" src="https://github.com/Bryan-Herrera-DEV/Bryan-Herrera-DEV/blob/46b8a42e6954fe71dbbbb2317477ef81ae795b33/img/twitter.png" height= 20px>
-
-Twitter [BryanHerrera](https://www.instagram.com/bryan_herrera_7w7) 
+<h2 align='left'><i>Follow me on</i></h2>
+<h3 align='center'>
+	<img align='left' src="https://github.com/Bryan-Herrera-DEV/Bryan-Herrera-DEV/blob/71ef8a1b181b4ae103025a087bfd69ea4eeed00b/img/instagram.png" wifth="10" height="160">
+	<img align='center' src="https://github.com/Bryan-Herrera-DEV/Bryan-Herrera-DEV/blob/71ef8a1b181b4ae103025a087bfd69ea4eeed00b/img/twitter.png" wifth="10" height="160">
+	<img align='right' src="https://github.com/Bryan-Herrera-DEV/Bryan-Herrera-DEV/blob/71ef8a1b181b4ae103025a087bfd69ea4eeed00b/img/linkedin.png" wifth="10" height="160">
+</h3>
 
 	
 <h2 align='left'><i>Activity Graph 📈</i></h2>
