@@ -7,17 +7,21 @@
   Welcome to ርᚱ1ናተᛰ ᚻህᚥተპᚱ's profile!
 </h3>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00D13B&width=750&lines=I'm+a+simple+human+more+passionate+about+programming+💻)](https://git.io/typing-svg)
 
 <h3 align='left'><i>Follow me on</i></h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00D13B&width=650&lines=I'm+a+simple+human+more+passionate+about+programming+💻)](https://git.io/typing-svg)
-
+<a href="https://www.instagram.com/bryan_herrera_7w7/">
 <img align='left' src="https://github.com/Bryan-Herrera-DEV/Bryan-Herrera-DEV/blob/71ef8a1b181b4ae103025a087bfd69ea4eeed00b/img/instagram.png" wifth="10" height="95">
+</a>
+<a href="https://twitter.com/BryanHe52482198">
 <img align='left' src="https://github.com/Bryan-Herrera-DEV/Bryan-Herrera-DEV/blob/71ef8a1b181b4ae103025a087bfd69ea4eeed00b/img/twitter.png" wifth="10" height="95">
+</a>
+<a href="https://www.linkedin.com/in/bryan-herrera-dev/">
 <img src="https://github.com/Bryan-Herrera-DEV/Bryan-Herrera-DEV/blob/71ef8a1b181b4ae103025a087bfd69ea4eeed00b/img/linkedin.png" wifth="10" height="95">
+</a>
 
-
-![](https://komarev.com/ghpvc/?username=Bryan-Herrera-DEV&color=blue)
+<img src="https://komarev.com/ghpvc/?username=Bryan-Herrera-DEV&color=blue" width="150">
 
 <br>
 <br>
