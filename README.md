@@ -44,8 +44,6 @@
     <td align='center'>
         <img src="https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/mysql.png" height="60"wifth="60">
     </td>
-</tr>
-<tr>
     <td align='center'>
         <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="60">
     </td>
