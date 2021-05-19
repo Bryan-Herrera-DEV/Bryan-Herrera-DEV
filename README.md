@@ -9,23 +9,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00D13B&width=750&lines=I'm+a+simple+human+more+passionate+about+programming+💻)](https://git.io/typing-svg)
 
-<h3 align='left'><i>Follow me on</i></h3>
-
-<a href="https://www.instagram.com/bryan_herrera_7w7/">
-<img align='left' src="https://github.com/Bryan-Herrera-DEV/Bryan-Herrera-DEV/blob/71ef8a1b181b4ae103025a087bfd69ea4eeed00b/img/instagram.png" wifth="10" height="95">
-</a>
-<a href="https://twitter.com/BryanHe52482198">
-<img align='left' src="https://github.com/Bryan-Herrera-DEV/Bryan-Herrera-DEV/blob/71ef8a1b181b4ae103025a087bfd69ea4eeed00b/img/twitter.png" wifth="10" height="95">
-</a>
-<a href="https://www.linkedin.com/in/bryan-herrera-dev/">
-<img src="https://github.com/Bryan-Herrera-DEV/Bryan-Herrera-DEV/blob/71ef8a1b181b4ae103025a087bfd69ea4eeed00b/img/linkedin.png" wifth="10" height="95">
-</a>
-
 <img src="https://komarev.com/ghpvc/?username=Bryan-Herrera-DEV&color=blue" width="150">
 
-<br>
-<br>
-<br>
 <h2 align='left'><i>Skills</i></h2>
 <table width="100">
 <tr>
@@ -73,3 +58,16 @@
 <h3 align="center">
 	<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Bryan-Herrera-DEV&theme=blue-green&hide_border=true&background=#0d1117&currStreakNum=00DD24">
 </h3>
+
+<h3 align='left'><i>Follow me on</i></h3>
+<p align="center">
+	<a href="https://www.instagram.com/bryan_herrera_7w7/">
+	<img align="center" src="https://github.com/Bryan-Herrera-DEV/Bryan-Herrera-DEV/blob/71ef8a1b181b4ae103025a087bfd69ea4eeed00b/img/instagram.png" wifth="10" height="95">
+	</a>
+	<a href="https://twitter.com/BryanHe52482198">
+	<img align="center" src="https://github.com/Bryan-Herrera-DEV/Bryan-Herrera-DEV/blob/71ef8a1b181b4ae103025a087bfd69ea4eeed00b/img/twitter.png" wifth="10" height="95">
+	</a>
+	<a href="https://www.linkedin.com/in/bryan-herrera-dev/">
+	<img align="center" src="https://github.com/Bryan-Herrera-DEV/Bryan-Herrera-DEV/blob/71ef8a1b181b4ae103025a087bfd69ea4eeed00b/img/linkedin.png" wifth="10" height="95">
+	</a>
+</p>
