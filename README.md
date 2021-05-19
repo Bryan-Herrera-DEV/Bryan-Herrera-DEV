@@ -7,9 +7,19 @@
   Welcome to ርᚱ1ናተᛰ ᚻህᚥተპᚱ's profile!
 </h3>
 
+
+<h3 align='left'><i>Follow me on</i></h3>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00D13B&width=650&lines=I'm+a+simple+human+more+passionate+about+programming+💻)](https://git.io/typing-svg)
+
+<img align='left' src="https://github.com/Bryan-Herrera-DEV/Bryan-Herrera-DEV/blob/71ef8a1b181b4ae103025a087bfd69ea4eeed00b/img/instagram.png" wifth="10" height="95">
+<img align='left' src="https://github.com/Bryan-Herrera-DEV/Bryan-Herrera-DEV/blob/71ef8a1b181b4ae103025a087bfd69ea4eeed00b/img/twitter.png" wifth="10" height="95">
+<img src="https://github.com/Bryan-Herrera-DEV/Bryan-Herrera-DEV/blob/71ef8a1b181b4ae103025a087bfd69ea4eeed00b/img/linkedin.png" wifth="10" height="95">
+
+
 ![](https://komarev.com/ghpvc/?username=Bryan-Herrera-DEV&color=blue)
 
+<br>
 <br>
 <br>
 <h2 align='left'><i>Skills</i></h2>
@@ -50,14 +60,6 @@
 </tr>
 </table>
 
-<h2 align='left'><i>Follow me on</i></h2>
-<h3 align='center'>
-	<img align='left' src="https://github.com/Bryan-Herrera-DEV/Bryan-Herrera-DEV/blob/71ef8a1b181b4ae103025a087bfd69ea4eeed00b/img/instagram.png" wifth="10" height="95">
-	<img align='center' src="https://github.com/Bryan-Herrera-DEV/Bryan-Herrera-DEV/blob/71ef8a1b181b4ae103025a087bfd69ea4eeed00b/img/twitter.png" wifth="10" height="95">
-	<img align='right' src="https://github.com/Bryan-Herrera-DEV/Bryan-Herrera-DEV/blob/71ef8a1b181b4ae103025a087bfd69ea4eeed00b/img/linkedin.png" wifth="10" height="95">
-</h3>
-
-	
 <h2 align='left'><i>Activity Graph 📈</i></h2>
 <p align="center">
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
