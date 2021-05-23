@@ -61,6 +61,7 @@
 <h2 align="left">My Top Repos</h2>
 <p>
 	<img src="https://github-readme-stats.vercel.app/api/pin/?username=Bryan-Herrera-DEV&repo=Python-Mp3Mp4-Downloader&theme=dark">
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=Bryan-Herrera-DEV&repo=Server-security-guide&theme=dark">
 </p>
 <h3 align='left'><i>Follow me on</i></h3>
 <p align="center">
