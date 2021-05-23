@@ -60,8 +60,8 @@
 </h3>
 <h2 align="left">My Top Repos</h2>
 <p>
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=Bryan-Herrera-DEV&repo=Python-Mp3Mp4-Downloader&theme=dark">
-	<a src="https://github.com/Bryan-Herrera-DEV/Server-security-guide"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Bryan-Herrera-DEV&repo=Server-security-guide&theme=dark"></a>
+	<a href="https://github.com/Bryan-Herrera-DEV/Python-Mp3Mp4-Downloader"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Bryan-Herrera-DEV&repo=Python-Mp3Mp4-Downloader&theme=dark"></a>
+	<a href="https://github.com/Bryan-Herrera-DEV/Server-security-guide"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Bryan-Herrera-DEV&repo=Server-security-guide&theme=dark"></a>
 </p>
 <h3 align='left'><i>Follow me on</i></h3>
 <p align="center">
