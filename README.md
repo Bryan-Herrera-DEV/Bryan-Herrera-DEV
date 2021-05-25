@@ -10,6 +10,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00D13B&width=750&lines=I'm+a+simple+human+more+passionate+about+programming+💻)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=Bryan-Herrera-DEV&color=blue" width="150">
+<a href="bryan-herrera.netlify.app"><img src="https://api.netlify.com/api/v1/badges/48056ccb-420a-4a9b-94a6-4e469c9a8c1c/deploy-status" width="150">
+
 
 <h2 align='left'><i>Skills</i></h2>
 <table width="100">
