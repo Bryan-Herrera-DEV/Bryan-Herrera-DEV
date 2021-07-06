@@ -49,6 +49,11 @@
         <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="60">
     </td>
 </tr>
+<tr>
+    <td align='center' width="190">
+        <img src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/java/java.svg" width="60">
+    </td>
+</tr>
 </table>
 
 <h2 align='left'><i>Activity Graph 📈</i></h2>
