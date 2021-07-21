@@ -54,10 +54,16 @@
         <img src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/java/java.svg" width="60">
     </td>
 	<td align='center' width="190">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="60">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/debian/debian-original-wordmark.svg" width="60">
     </td>
 	<td align='center'>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="60">
+    </td>
+	<td align='center'>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width="60">
+    </td>
+	<td align='center'>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" width="60">
     </td>
 </tr>
 </table>
