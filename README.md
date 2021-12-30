@@ -13,7 +13,7 @@
 <a href="bryan-herrera.netlify.app"><img src="https://api.netlify.com/api/v1/badges/48056ccb-420a-4a9b-94a6-4e469c9a8c1c/deploy-status" width="150"></a>
 
 
-<h2 align='left'><i>Skills</i></h2>
+<h2 align='left'><i>Languages ​​and tools</i></h2>
 <table width="100">
 <tr>
     <td align='center' width="190">
