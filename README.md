@@ -71,7 +71,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="60">
     </td>
 <td align='center' width="190">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/debian/debian-original-wordmark.svg" width="60">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="60">
     </td>
 </tr>
 </table>
