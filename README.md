@@ -66,14 +66,14 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" width="60">
     </td>
 </tr>
-<tr>
+<!--<tr>
     <td align='center' width="190">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="60">
     </td>
 <td align='center' width="190">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="60">
     </td>
-</tr>
+</tr>-->
 </table>
 
 <h2 align='left'><i>Activity Graph 📈</i></h2>
