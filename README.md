@@ -11,8 +11,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=Bryan-Herrera-DEV&color=blue" width="150">
 <a href="bryan-herrera.netlify.app"><img src="https://api.netlify.com/api/v1/badges/48056ccb-420a-4a9b-94a6-4e469c9a8c1c/deploy-status" width="150"></a>
-<br>
-<a href="https://www.codewars.com/users/Bryan-Herrera-DEV"><img src="https://www.codewars.com/users/Bryan-Herrera-DEV/badges/large" width="350"></a>
+
 
 
 <h2 align='left'><i>Languages ​​and tools</i></h2>
