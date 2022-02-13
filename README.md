@@ -6,7 +6,7 @@
 <h3 align="left">
   Welcome to Bryan's profile!
 </h3>
-My name is Bryan Herrera, I'm 19 years old, I live in Ecuador and I'm a Full-Stack developer.
+My name is Bryan Herrera, I'm 19 years old, I live in Ecuador and I'm a Full-Stack developer ❤️.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00D13B&width=750&lines=I'm+a+simple+human+more+passionate+about+programming+💻)](https://git.io/typing-svg)
 
