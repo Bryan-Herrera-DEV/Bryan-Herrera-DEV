@@ -96,12 +96,12 @@ My name is Bryan Herrera, I'm 19 years old, I live in Ecuador and I'm a Full-Sta
 <h3 align='left'><i>Follow me on</i></h3>
 <p align="center">
 	<a href="https://www.instagram.com/bryan_herrera_7w7/">
-	<img align="center" src="https://github.com/Bryan-Herrera-DEV/Bryan-Herrera-DEV/blob/71ef8a1b181b4ae103025a087bfd69ea4eeed00b/img/instagram.png" wifth="10" height="95">
+	<img align="center" src="https://raw.githubusercontent.com/Bryan-Herrera-DEV/Bryan-Herrera-DEV/master/img/instagram.svg" wifth="10" height="95">
 	</a>
 	<a href="https://twitter.com/BryanHe52482198">
-	<img align="center" src="https://github.com/Bryan-Herrera-DEV/Bryan-Herrera-DEV/blob/71ef8a1b181b4ae103025a087bfd69ea4eeed00b/img/twitter.png" wifth="10" height="95">
+	<img align="center" src="https://raw.githubusercontent.com/Bryan-Herrera-DEV/Bryan-Herrera-DEV/master/img/twitter.svg" wifth="10" height="95">
 	</a>
 	<a href="https://www.linkedin.com/in/bryan-herrera-dev/">
-	<img align="center" src="https://github.com/Bryan-Herrera-DEV/Bryan-Herrera-DEV/blob/71ef8a1b181b4ae103025a087bfd69ea4eeed00b/img/linkedin.png" wifth="10" height="95">
+	<img align="center" src="https://raw.githubusercontent.com/Bryan-Herrera-DEV/Bryan-Herrera-DEV/master/img/linkedin.svg" wifth="10" height="95">
 	</a>
 </p>
