@@ -96,18 +96,18 @@ My name is Bryan Herrera, I'm 19 years old, I live in Ecuador and I'm a Full-Sta
 <h3 align='left'><i>Follow me on</i></h3>
 <p align="center">
 	<a href="https://www.instagram.com/_bryan_herrera_dev_/" target="_blank">
-	<img align="center" src="https://raw.githubusercontent.com/Bryan-Herrera-DEV/Bryan-Herrera-DEV/master/img/instagram.svg" wifth="10" height="95">
+	<img align="center" src="https://raw.githubusercontent.com/Bryan-Herrera-DEV/Bryan-Herrera-DEV/master/img/instagram.svg" width="60" height="95">
 	</a>
 	<a href="https://twitter.com/BryanHe52482198" target="_blank">
-	<img align="center" src="https://raw.githubusercontent.com/Bryan-Herrera-DEV/Bryan-Herrera-DEV/master/img/twitter.svg" wifth="10" height="95">
+	<img align="center" src="https://raw.githubusercontent.com/Bryan-Herrera-DEV/Bryan-Herrera-DEV/master/img/twitter.svg" width="60" height="95">
 	</a>
 	<a href="https://www.linkedin.com/in/bryan-herrera-dev/" target="_blank">
-	<img align="center" src="https://raw.githubusercontent.com/Bryan-Herrera-DEV/Bryan-Herrera-DEV/master/img/linkedin.svg" wifth="10" height="95">
+	<img align="center" src="https://raw.githubusercontent.com/Bryan-Herrera-DEV/Bryan-Herrera-DEV/master/img/linkedin.svg" width="60" height="95">
 	</a>
 	<a href="https://www.youtube.com/channel/UCpqPMLwkeOwqC_eKJi0tumg" target="_blank">
-	<img align="center" src="https://raw.githubusercontent.com/Bryan-Herrera-DEV/Bryan-Herrera-DEV/master/img/youtube.svg" wifth="10" height="95">
+	<img align="center" src="https://raw.githubusercontent.com/Bryan-Herrera-DEV/Bryan-Herrera-DEV/master/img/youtube.svg" width="60" height="95">
 	</a>
 	<a href="https://codepen.io/Bryanlolry/" target="_blank">
-	<img align="center" src="https://raw.githubusercontent.com/Bryan-Herrera-DEV/Bryan-Herrera-DEV/master/img/codepen.svg" wifth="10" height="95">
+	<img align="center" src="https://raw.githubusercontent.com/Bryan-Herrera-DEV/Bryan-Herrera-DEV/master/img/codepen.svg" width="60" height="95">
 	</a>
 </p>
