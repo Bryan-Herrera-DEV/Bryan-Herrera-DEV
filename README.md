@@ -15,7 +15,7 @@ My name is Bryan Herrera, I'm 19 years old, I live in Ecuador and I'm a Full-Sta
 
 
 <h2 align='left'><i>Languages ​​and tools</i></h2>
-<table width="100">
+<table width="100" align="center">
 <tr>
     <td align='center' width="190">
         <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="60">
@@ -87,7 +87,7 @@ My name is Bryan Herrera, I'm 19 years old, I live in Ecuador and I'm a Full-Sta
 	<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Bryan-Herrera-DEV&theme=blue-green&hide_border=true&background=#0d1117&currStreakNum=00DD24">
 </h3>
 <h2 align="left">My Top Repos</h2>
-<p>
+<p align="center">
 	<a href="https://github.com/Bryan-Herrera-DEV/Python-Mp3Mp4-Downloader"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Bryan-Herrera-DEV&repo=Python-Mp3Mp4-Downloader&theme=dark"></a>
 	<a href="https://github.com/Bryan-Herrera-DEV/Github-Profile-View-With-Charts"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Bryan-Herrera-DEV&repo=Github-Profile-View-With-Charts&theme=dark"></a>
 	<a href="https://github.com/Bryan-Herrera-DEV/pokemon-wiki"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Bryan-Herrera-DEV&repo=pokemon-wiki&theme=dark"></a>
