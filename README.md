@@ -89,11 +89,11 @@ My name is Bryan Herrera, I'm 19 years old, I live in Ecuador and I'm a Full-Sta
 <h2 align="left">My Top Repos</h2>
 
 <p align="center">
-	<a href="https://github.com/Bryan-Herrera-DEV/Python-Mp3Mp4-Downloader"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Bryan-Herrera-DEV&repo=Python-Mp3Mp4-Downloader&theme=dark"></a>
-	<a href="https://github.com/Bryan-Herrera-DEV/Github-Profile-View-With-Charts"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Bryan-Herrera-DEV&repo=Github-Profile-View-With-Charts&theme=dark"></a>
-	<a href="https://github.com/Bryan-Herrera-DEV/pokemon-wiki"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Bryan-Herrera-DEV&repo=pokemon-wiki&theme=dark"></a>
-	<a href="https://github.com/Bryan-Herrera-DEV/Angular-Maps"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Bryan-Herrera-DEV&repo=Angular-Maps&theme=dark"></a>
-	<a href="https://github.com/Bryan-Herrera-DEV/Angular-Password-Generator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Bryan-Herrera-DEV&repo=Angular-Password-Generator&theme=dark"></a>
+	<a href="https://github.com/Bryan-Herrera-DEV/Python-Mp3Mp4-Downloader" height="140"><img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Bryan-Herrera-DEV&repo=Python-Mp3Mp4-Downloader&theme=dark"></a>
+	<a href="https://github.com/Bryan-Herrera-DEV/Github-Profile-View-With-Charts" height="140"><img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Bryan-Herrera-DEV&repo=Github-Profile-View-With-Charts&theme=dark"></a>
+	<a href="https://github.com/Bryan-Herrera-DEV/pokemon-wiki" height="140"><img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Bryan-Herrera-DEV&repo=pokemon-wiki&theme=dark"></a>
+	<a href="https://github.com/Bryan-Herrera-DEV/Angular-Maps" height="140"><img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Bryan-Herrera-DEV&repo=Angular-Maps&theme=dark"></a>
+	<a href="https://github.com/Bryan-Herrera-DEV/Angular-Password-Generator" height="140"><img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Bryan-Herrera-DEV&repo=Angular-Password-Generator&theme=dark"></a>
 </p>
 <h3 align='left'><i>Follow me on</i></h3>
 <p align="center">
