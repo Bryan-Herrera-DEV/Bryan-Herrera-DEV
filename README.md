@@ -114,9 +114,3 @@ My name is Bryan Herrera, I'm 19 years old, I live in Ecuador and I'm a Full-Sta
 	</a>
 </p>
 
-
-```mermaid
-journey
-	title Me styding
-	section Exam
-```
