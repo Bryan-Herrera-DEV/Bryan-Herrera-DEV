@@ -113,3 +113,10 @@ My name is Bryan Herrera, I'm 19 years old, I live in Ecuador and I'm a Full-Sta
 	<img align="center" src="https://raw.githubusercontent.com/Bryan-Herrera-DEV/Bryan-Herrera-DEV/master/img/codepen.svg" width="60" height="95">
 	</a>
 </p>
+
+
+```mermaid
+journey
+	T
+	k
+```
