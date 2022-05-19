@@ -1,6 +1,3 @@
-
-<img align='left' src='https://github.com/bryanlolry/bryanlolry/blob/master/gifs/tech.gif' width='20%'/> 
-
 <h1 align="left">BIO</h1>
 
 <h3 align="left">
