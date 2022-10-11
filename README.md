@@ -1,11 +1,26 @@
-<h1 align="left">BIO</h1>
-
-<h3 align="left">
-  Welcome to Bryan's profile!
+<h3 align="center">
+  Welcome to Bryan Herrera profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">!
 </h3>
-My name is Bryan Herrera, I'm 19 years old, I live in Ecuador and I'm a Full-Stack developer ❤️.
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00D13B&width=750&lines=I'm+a+simple+human+more+passionate+about+programming+💻)](https://git.io/typing-svg)
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=300&color=00D13B&center=true&vCenter=true&width=750&height=80&lines=I'm+a+FullSatck+Developer+%F0%9F%A7%A1;I'm+a+simple+human+more+passionate+about+programming+%F0%9F%92%BB;Always+learning+new+things" alt="Typing SVG" /></a>
+</p>
+<p align="center">
+	<a href="https://www.instagram.com/_bryan_herrera_dev_/" target="_blank">
+	<img align="center" src="https://raw.githubusercontent.com/Bryan-Herrera-DEV/Bryan-Herrera-DEV/master/img/instagram.svg" width="40" height="95">
+	</a>
+	<a href="https://twitter.com/BryanHe52482198" target="_blank">
+	<img align="center" src="https://raw.githubusercontent.com/Bryan-Herrera-DEV/Bryan-Herrera-DEV/master/img/twitter.svg" width="40" height="95">
+	</a>
+	<a href="https://www.linkedin.com/in/bryan-herrera-dev/" target="_blank">
+	<img align="center" src="https://raw.githubusercontent.com/Bryan-Herrera-DEV/Bryan-Herrera-DEV/master/img/linkedin.svg" width="40" height="95">
+	</a>
+	<a href="https://www.youtube.com/channel/UCpqPMLwkeOwqC_eKJi0tumg" target="_blank">
+	<img align="center" src="https://raw.githubusercontent.com/Bryan-Herrera-DEV/Bryan-Herrera-DEV/master/img/youtube.svg" width="40" height="95">
+	</a>
+	<a href="https://codepen.io/Bryanlolry/" target="_blank">
+	<img align="center" src="https://raw.githubusercontent.com/Bryan-Herrera-DEV/Bryan-Herrera-DEV/master/img/codepen.svg" width="40" height="95">
+	</a>
+</p>
 
 <h2 align='left'><i>Languages and tools</i></h2>
 
@@ -32,22 +47,5 @@ My name is Bryan Herrera, I'm 19 years old, I live in Ecuador and I'm a Full-Sta
 	<a href="https://github.com/Bryan-Herrera-DEV/Angular-Maps" height="140"><img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Bryan-Herrera-DEV&repo=Angular-Maps&theme=dark"></a>
 	<a href="https://github.com/Bryan-Herrera-DEV/Angular-Password-Generator" height="140"><img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Bryan-Herrera-DEV&repo=Angular-Password-Generator&theme=dark"></a>
 </p>
-<h3 align='left'><i>Follow me on</i></h3>
-<p align="center">
-	<a href="https://www.instagram.com/_bryan_herrera_dev_/" target="_blank">
-	<img align="center" src="https://raw.githubusercontent.com/Bryan-Herrera-DEV/Bryan-Herrera-DEV/master/img/instagram.svg" width="60" height="95">
-	</a>
-	<a href="https://twitter.com/BryanHe52482198" target="_blank">
-	<img align="center" src="https://raw.githubusercontent.com/Bryan-Herrera-DEV/Bryan-Herrera-DEV/master/img/twitter.svg" width="60" height="95">
-	</a>
-	<a href="https://www.linkedin.com/in/bryan-herrera-dev/" target="_blank">
-	<img align="center" src="https://raw.githubusercontent.com/Bryan-Herrera-DEV/Bryan-Herrera-DEV/master/img/linkedin.svg" width="60" height="95">
-	</a>
-	<a href="https://www.youtube.com/channel/UCpqPMLwkeOwqC_eKJi0tumg" target="_blank">
-	<img align="center" src="https://raw.githubusercontent.com/Bryan-Herrera-DEV/Bryan-Herrera-DEV/master/img/youtube.svg" width="60" height="95">
-	</a>
-	<a href="https://codepen.io/Bryanlolry/" target="_blank">
-	<img align="center" src="https://raw.githubusercontent.com/Bryan-Herrera-DEV/Bryan-Herrera-DEV/master/img/codepen.svg" width="60" height="95">
-	</a>
-</p>
+
 
