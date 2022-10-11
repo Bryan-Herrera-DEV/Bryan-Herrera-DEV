@@ -21,7 +21,7 @@ My name is Bryan Herrera, I'm 19 years old, I live in Ecuador and I'm a Full-Sta
 </a>
 </p>
 <h3 align="center">
-	<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Bryan-Herrera-DEV&theme=blue-green&hide_border=true&background=#0d1117&currStreakNum=00DD24">
+	<img align="center" src="http://github-readme-streak-stats.herokuapp.com/?user=Bryan-Herrera-DEV&hide_border=true&background=010101&currStreakNum=ffffff&dates=bdbdbd&sideLabels=ffffff&currStreakLabel=dedede&sideNums=ffffff&ring=00d13b&fire=00d13b" width="70%">
 </h3>
 <h2 align="left">My Top Repos</h2>
 
