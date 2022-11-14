@@ -4,6 +4,9 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=300&color=00D13B&center=true&vCenter=true&width=750&height=80&lines=I'm+a+FullSatck+Developer+%F0%9F%A7%A1;I'm+a+simple+human+passionate+about+programming+%F0%9F%92%BB;Always+learning+new+things" alt="Typing SVG" /></a>
 </p>
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Bryan-Herrera-DEV&show_icons=true&title_color=ffffff&icon_color=00d13b&text_color=9f9f9f&bg_color=000000&border_color=00d13b&include_all_commits=true"  width="400">
+
 <p>With more than 4 years in the programming area, I am a FullStack developer specialized in building (and occasionally designing) exceptional digital experiences on the web with technologies such as: Angular12+, MongoDB, Typescript, NodeJS, etc. Currently, I focus on content outreach and building accessible, user experience-centric, scalable and maintainable BackEnd pages and services.</p>
 
 <p>I am a person who likes to teach, laugh and share, that is reflected in my YouTube, I consider myself a friendly person who likes to learn about everything, my biggest hobby is learning about astronomy and philosophy. I am someone with a lot of humor but at the same time seriousness in my work.</p>
