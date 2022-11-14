@@ -1,0 +1,18 @@
+name: GitHub Readme YouTube Cards
+on:
+  schedule:
+    # Correr script cada hora
+    - cron: "* * * * *"
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: DenverCoder1/github-readme-youtube-cards@main
+        with:
+          channel_id: UCpqPMLwkeOwqC_eKJi0tumg
+          comment_tag_name: YOUTUBE-CARDS
+          youtube_api_key: ${{ secrets.YOUTUBE_API }}
+          show_duration: true
+          output_type: html
