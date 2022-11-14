@@ -2,7 +2,7 @@
   Welcome to Bryan Herrera profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">!
 </h3>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=300&color=00D13B&center=true&vCenter=true&width=750&height=80&lines=I'm+a+FullSatck+Developer+%F0%9F%A7%A1;I'm+a+simple+human+more+passionate+about+programming+%F0%9F%92%BB;Always+learning+new+things" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=300&color=00D13B&center=true&vCenter=true&width=750&height=80&lines=I'm+a+FullSatck+Developer+%F0%9F%A7%A1;I'm+a+simple+human+passionate+about+programming+%F0%9F%92%BB;Always+learning+new+things" alt="Typing SVG" /></a>
 </p>
 <p>With more than 4 years in the programming area, I am a FullStack developer specialized in building (and occasionally designing) exceptional digital experiences on the web with technologies such as: Angular12+, MongoDB, Typescript, NodeJS, etc. Currently, I focus on content outreach and building accessible, user experience-centric, scalable and maintainable BackEnd pages and services.</p>
 
