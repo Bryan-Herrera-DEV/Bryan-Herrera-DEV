@@ -52,7 +52,6 @@
 
   <!-- prettier-ignore-start -->
   <!-- BEGIN YOUTUBE-CARDS -->
-<a href="https://www.youtube.com/watch?v=2JS6t3R8gFQ"><img src="https://ytcards.demolab.com/?id=2JS6t3R8gFQ&title=CESAR+CIPHER+explicado+desde+cero+con+TYPESCRIPT&lang=es&timestamp=1668430800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=3860" alt="Automatically Deploy to Fly.io with GitHub Actions" title="CESAR CIPHER explicado desde cero con TYPESCRIPT"></a>
 <!-- END YOUTUBE-CARDS -->
   <!-- prettier-ignore-end -->
   
