@@ -62,7 +62,8 @@
   
 </details>
 
-<h2 align="left">📘 My top open source projects</h2>
+<details> 
+  <summary><h2 align="left">📘 My top open source projects</h2></summary>
 
 <p align="center">
 	<a href="https://github.com/Bryan-Herrera-DEV/typescript-ddd-boilerplate">
@@ -99,3 +100,4 @@
 		<img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Bryan-Herrera-DEV&repo=pokemon-wiki&bg_color=010101&title_color=00D13B&hide_border=true&icon_color=00D13B&show_icons=true&text_color=ffffff">
 	</a>
 </p>
+</details>
