@@ -10,7 +10,15 @@
 <p>With more than 4 years in the programming area, I am a FullStack developer specialized in building (and occasionally designing) exceptional digital experiences on the web with technologies such as: Angular12+, MongoDB, Typescript, NodeJS, etc. Currently, I focus on content outreach and building accessible, user experience-centric, scalable and maintainable BackEnd pages and services.</p>
 
 <p>I am a person who likes to teach, laugh and share, that is reflected in my YouTube, I consider myself a friendly person who likes to learn about everything, my biggest hobby is learning about astronomy and philosophy. I am someone with a lot of humor but at the same time seriousness in my work.</p>
-
+<div>
+	<p>🎓︎ I am currently learnin</p>
+	
+	
+| <p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height='42px'/> | <p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height='42px'/> | <p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height='42px'/> |
+|:---: | :---: | :---: |
+	
+</div>
+<br>
 <p>You can learn more about my work on my website: <a href="https://bryan-herrera.netlify.app/">https://bryan-herrera.netlify.app/</a> or on my main social networks:</p>
 
 <p align="center">
