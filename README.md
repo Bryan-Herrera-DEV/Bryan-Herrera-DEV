@@ -48,11 +48,6 @@
 
 <details> 
   <summary><h2 align='left'><i>📈 Activity Graph</i></h2></summary>
-<p align="center">
-<a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Bryan-Herrera-DEV&line=00d13b&theme=high-contrast&area=true&hide_border=true" width="100%">
-</a>
-</p>
 <h3 align="center">
 	<img align="center" src="http://github-readme-streak-stats.herokuapp.com/?user=Bryan-Herrera-DEV&hide_border=true&background=010101&currStreakNum=ffffff&dates=bdbdbd&sideLabels=ffffff&currStreakLabel=dedede&sideNums=ffffff&ring=00d13b&fire=00d13b" width="70%">
 </h3>
@@ -80,8 +75,8 @@
   <summary><h2 align="left">📘 My top open source projects</h2></summary>
 
 <p align="center">
-	<a href="https://github.com/Bryan-Herrera-DEV/typescript-ddd-boilerplate">
-		<img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Bryan-Herrera-DEV&repo=typescript-ddd-boilerplate&bg_color=010101&title_color=00D13B&hide_border=true&icon_color=00D13B&show_icons=true&text_color=ffffff">
+	<a href="https://github.com/Bryan-Herrera-DEV/typescript-common-utils">
+		<img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Bryan-Herrera-DEV&repo=typescript-common-utils&bg_color=010101&title_color=00D13B&hide_border=true&icon_color=00D13B&show_icons=true&text_color=ffffff">
 	</a>
 	<a href="https://github.com/Bryan-Herrera-DEV/Python-Mp3Mp4-Downloader">
 		<img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Bryan-Herrera-DEV&repo=Python-Mp3Mp4-Downloader&bg_color=010101&title_color=00D13B&hide_border=true&icon_color=00D13B&show_icons=true&text_color=ffffff">
